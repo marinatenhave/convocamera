@@ -1,6 +1,5 @@
 <a href="https://usenotesgpt.com/">
-  <img alt="ConvoCamera." src="/public/images/og-image.png">
-  <h1 align="center">notesGPT</h1>
+  <h1 align="center">ConvoCamera</h1>
 </a>
 
 
